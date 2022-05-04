@@ -1,7 +1,7 @@
 # CALCULATOR
 View here: https://simple-calculator-ashy.vercel.app/
 
- ### This is a simple calculator 
+ # This is a simple calculator 
  
  ## Tech Stack :-
  
